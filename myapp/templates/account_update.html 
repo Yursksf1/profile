@@ -1,0 +1,7 @@
+
+        <h2>  {{user.userprofile.firsrtName}} </h2>
+        <h2>  {{user.userprofile.lastName}} </h2>
+        <h2>  {{user.userprofile.phone}} </h2>
+ 		<h2>  {{user.userprofile.municipality}} </h2>
+        <h2>  {{user.userprofile.address}} </h2>
+
